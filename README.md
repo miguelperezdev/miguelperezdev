@@ -90,48 +90,6 @@ ENGINEERING    Data Structures · Algorithms · Design Patterns
 
 <p align="center"><code>═══════════════════════════════════════════════════════════</code></p>
 
-## [ PROJECTS ]
-
-```text
-┌───────────────────────────────────────────────────────────┐
-│ PROJECT_001                                                │
-│                                                             │
-│ WHATSAPPPROMAX                                             │
-│ [Añade aquí una línea describiendo qué resuelve]           │
-│                                                             │
-│ STATUS   :: ACTIVE                                         │
-│ DOMAIN   :: BACKEND                                        │
-│ STACK    :: JAVA                                           │
-│ REPO     :: github.com/miguelperezdev/WhatsAppProMax1.0    │
-└───────────────────────────────────────────────────────────┘
-
-┌───────────────────────────────────────────────────────────┐
-│ PROJECT_002                                                │
-│                                                             │
-│ COMPUTACION_Y_ESTRUCTURAS_DISCRETAS                        │
-│ Coursework repository — discrete structures & computation  │
-│                                                             │
-│ STATUS   :: ARCHIVED                                       │
-│ DOMAIN   :: ENGINEERING / ALGORITHMS                       │
-│ STACK    :: PYTHON / JUPYTER                                │
-│ REPO     :: github.com/miguelperezdev/Computacion...       │
-└───────────────────────────────────────────────────────────┘
-
-┌───────────────────────────────────────────────────────────┐
-│ PROJECT_003                                                │
-│                                                             │
-│ PROYECTO-DE-INVESTIGACION-BU                                │
-│ [Añade aquí una línea describiendo qué resuelve]           │
-│                                                             │
-│ STATUS   :: ARCHIVED                                       │
-│ DOMAIN   :: DATA                                           │
-│ STACK    :: R                                              │
-│ REPO     :: github.com/miguelperezdev/Proyecto-de-inv...   │
-└───────────────────────────────────────────────────────────┘
-```
-
-<p align="center"><code>═══════════════════════════════════════════════════════════</code></p>
-
 ## [ SYSTEM STATUS ]
 
 ```text

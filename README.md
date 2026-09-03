@@ -1,64 +1,181 @@
-<h1 align="center">
-  Hey there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px"> I'm Miguel
-</h1>
+<h1 align="center">MIGUEL PEREZ</h1>
+<h3 align="center">BACKEND ENGINEER — JAVA / SPRING BOOT</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/2HQKrBsGYJUAAAAM/son-goku.gif" width="180" /><br><br>
-  <strong>💻 Software Engineering Student | ☕ Java Fanatic | 🌱 Forever Learning</strong><br>
-  <em>“Life is a patch. Sometimes you just need to debug it.”</em>
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-39FF14?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/NODE-MIGUEL-E63946?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ACCESS-GRANTED-39FF14?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MODE-ENGINEERING-E63946?style=for-the-badge&labelColor=000000" />
 </p>
-
-### 🌱 About Me
-
-- 🔭 Currently learning: **Java**, **Data Structures**, and **Spring Boot**.
-- 🛠️ Building: Personal projects and side experiments.
-- 🤓 Fun fact: I overuse `git commit -m "final final v2 REAL FINAL"`.
-- 💬 Ask me about: Java, backend stuff, or how to not break prod.
-- ⚡ Hobbies: Coding, reading docs I don't understand (yet), and anime.
-- 😄 Pronouns: He/Him
-
-### 🚀 Tech Stack
-
-#### Languages & Frameworks
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="40" />
-</p>
-
-#### Tools & Platforms
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" />
-</p>
-
-#### Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-</p>
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelperezdev&theme=tokyonight&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelperezdev&theme=tokyonight&layout=compact" width="48%" />
-</p>
- 
-<p align="center">
-  <em>“When I first wrote this code, only God and I knew how it worked.<br>
-  Now… only God knows.”</em><br>
-  🙈💻
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=E63946&background=0D0D0D&center=true&vCenter=true&width=650&lines=BACKEND+SYSTEMS+%5BONLINE%5D;JAVA+%2F+SPRING+BOOT;APIS+%2F+DATABASES+%2F+SYSTEMS;BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+REBUILD" alt="terminal" />
 </p>
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/sRd2yqhT0vkAAAAC/goku-thumbs-up.gif" width="350"/>
+</p>
+
+<p align="center"><code>═══════════════════════════════════════════════════════════</code></p>
+
+## [ WHOAMI ]
+
+```text
+$ whoami
+
+miguel-perez
+
+$ cat /etc/identity
+
+Software Engineering student focused on backend systems.
+
+I don't just want software that works.
+I want to understand why it works,
+where it fails,
+and how to make it stronger.
+```
+
+<p align="center"><code>═══════════════════════════════════════════════════════════</code></p>
+
+## [ CORE ]
+
+```text
+BACKEND        Java · Spring Boot · REST APIs · Business Logic
+DATA           SQL · Database Design · Data Modeling · NoSQL
+SYSTEMS        Linux · Docker · Git · System Architecture
+ENGINEERING    Data Structures · Algorithms · Design Patterns
+```
+
+<p align="center"><code>═══════════════════════════════════════════════════════════</code></p>
+
+## [ STACK ]
+
+**BACKEND — CORE**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=E63946" />
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=E63946" />
+</p>
+
+**BACKEND**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" />
+</p>
+
+**DATABASES**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
+</p>
+
+**INFRASTRUCTURE**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+</p>
+
+**FRONTEND**
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
+</p>
+
+<p align="center"><code>═══════════════════════════════════════════════════════════</code></p>
+
+## [ PROJECTS ]
+
+```text
+┌───────────────────────────────────────────────────────────┐
+│ PROJECT_001                                                │
+│                                                             │
+│ WHATSAPPPROMAX                                             │
+│ [Añade aquí una línea describiendo qué resuelve]           │
+│                                                             │
+│ STATUS   :: ACTIVE                                         │
+│ DOMAIN   :: BACKEND                                        │
+│ STACK    :: JAVA                                           │
+│ REPO     :: github.com/miguelperezdev/WhatsAppProMax1.0    │
+└───────────────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────────────────────────┐
+│ PROJECT_002                                                │
+│                                                             │
+│ COMPUTACION_Y_ESTRUCTURAS_DISCRETAS                        │
+│ Coursework repository — discrete structures & computation  │
+│                                                             │
+│ STATUS   :: ARCHIVED                                       │
+│ DOMAIN   :: ENGINEERING / ALGORITHMS                       │
+│ STACK    :: PYTHON / JUPYTER                                │
+│ REPO     :: github.com/miguelperezdev/Computacion...       │
+└───────────────────────────────────────────────────────────┘
+
+┌───────────────────────────────────────────────────────────┐
+│ PROJECT_003                                                │
+│                                                             │
+│ PROYECTO-DE-INVESTIGACION-BU                                │
+│ [Añade aquí una línea describiendo qué resuelve]           │
+│                                                             │
+│ STATUS   :: ARCHIVED                                       │
+│ DOMAIN   :: DATA                                           │
+│ STACK    :: R                                              │
+│ REPO     :: github.com/miguelperezdev/Proyecto-de-inv...   │
+└───────────────────────────────────────────────────────────┘
+```
+
+<p align="center"><code>═══════════════════════════════════════════════════════════</code></p>
+
+## [ SYSTEM STATUS ]
+
+```text
+$ systemctl status developer
+
+● developer.service — Backend Engineering Unit
+   Loaded:  enabled (long-term)
+   Active:  active (running)
+   Focus:   backend / system architecture
+   Runtime: Java 17+ / Spring Boot
+   Env:     Linux
+   Containers: Docker
+   Status:  operational
+```
+
+<p align="center"><code>═══════════════════════════════════════════════════════════</code></p>
+
+## [ GITHUB STATS ]
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=miguelperezdev&show_icons=true&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=E63946&icon_color=E63946&text_color=FFFFFF" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=miguelperezdev&layout=compact&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=E63946&text_color=FFFFFF" width="46%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=miguelperezdev&hide_border=true&background=0D0D0D&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="60%" />
+</p>
+
+<p align="center"><code>═══════════════════════════════════════════════════════════</code></p>
+
+## [ CONNECT ]
+
+<p align="center">
+  <a href="https://github.com/miguelperezdev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E63946" /></a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E63946" /></a>
+  <a href="mailto:tu_correo@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E63946" /></a>
+</p>
+
+<p align="center"><code>═══════════════════════════════════════════════════════════</code></p>
+
+<p align="center">
+  <code>BUILD. BREAK. DEBUG. REBUILD.</code>
+</p>
+
+<p align="center">
+  <sub>[ CONNECTION TERMINATED ]</sub>
+</p>

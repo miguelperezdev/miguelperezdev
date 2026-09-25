@@ -109,14 +109,7 @@ $ systemctl status developer
 
 ## [ GITHUB STATS ]
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=miguelperezdev&show_icons=true&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=E63946&icon_color=E63946&text_color=FFFFFF" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=miguelperezdev&layout=compact&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=E63946&text_color=FFFFFF" width="46%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=miguelperezdev&hide_border=true&background=0D0D0D&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="60%" />
-</p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=miguelperezdev&show_icons=true&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=E63946&icon_color=E63946&text_color=FFFFFF" width="48%" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=miguelperezdev&layout=compact&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=E63946&text_color=FFFFFF" width="46%" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=miguelperezdev&hide_border=true&background=0D0D0D&ring=E63946&fire=E63946&currStreakLabel=E63946&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="60%" /> </p>
 
 <p align="center"><code>═══════════════════════════════════════════════════════════</code></p>
 

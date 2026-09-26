@@ -117,8 +117,8 @@ $ systemctl status developer
 
 <p align="center">
   <a href="https://github.com/miguelperezdev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E63946" /></a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E63946" /></a>
-  <a href="mailto:tu_correo@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E63946" /></a>
+  <a href="https://www.linkedin.com/in/miguel-perez-90b5a3208/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E63946" /></a>
+  <a href="mailto:miguel.perezojeda19@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E63946" /></a>
 </p>
 
 <p align="center"><code>═══════════════════════════════════════════════════════════</code></p>

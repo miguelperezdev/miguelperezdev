@@ -44,7 +44,7 @@ BACKEND        Java · Spring Boot · REST APIs · Business Logic
 DATA           SQL · Database Design · Data Modeling · NoSQL
 SYSTEMS        Linux · Docker · Git · System Architecture
 ENGINEERING    Data Structures · Algorithms · Design Patterns
-```
+``` 
 
 <p align="center"><code>═══════════════════════════════════════════════════════════</code></p>
 
